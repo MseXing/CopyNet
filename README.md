@@ -1,6 +1,6 @@
 # CopyNet
 
-This is an implementation of CopyNet https://arxiv.org/abs/1603.06393(another implementation of CopyNet can be viewed at https://github.com/allenai/allennlp-models/blob/master/allennlp_models/generation/models/copynet_seq2seq.py)
+This is an implementation of CopyNet https://arxiv.org/abs/1603.06393(another (another implementation of CopyNet can be viewed at https://github.com/allenai/allennlp-models/blob/master/allennlp_models/generation/models/copynet_seq2seq.py)
 CopyNet extends the functionality of encoder-decoder models to allow the generation
 of output sequences that contain "out of vocabulary" tokens that appeared in the input sequence.
 
